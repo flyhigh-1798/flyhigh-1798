@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @flyhigh-1798
+- 👀 I’m interested in Python, and I'm trying to learn c++, c, c#, Lua, and Javascript
+- I won't be releasing many repositories, (if not, none)
